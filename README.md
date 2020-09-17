@@ -8,4 +8,4 @@
 
 |  日期   | 内容  | 视频 | 代码 |
 |  ----  | ----  |  ----  | ----  |
-| 2020.9.16  | 网络搜索原理概览 ![第一课思维导图](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/images/class_1_mm.jpg)|  [L1](https://www.bilibili.com/video/BV1zp4y1e7iN//?p=1) | - |
+| 2020.9.16  | 网络搜索原理概览 ![第一课思维导图](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/images/class_1_mm.jpg)|  [L1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=1) | - |
