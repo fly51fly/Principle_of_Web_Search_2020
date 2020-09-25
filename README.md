@@ -10,3 +10,5 @@
 |  ----  | ----  |  ----  | ----  |
 | 2020.9.16  | 第1讲 网络搜索原理概览 ![第一课思维导图](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/images/class_1_mm.jpg)|  [L1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=1) | - |
 |   | 第1讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_001.md))|  [L1.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=2) | - |
+| 2020.9.23 | 第2讲 极简搜索引擎实现 | [L2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=3) | [L2](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_2.ipynb) |
+| | 第2讲答疑 （[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_002.md)) | [L2.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=4) | - |
