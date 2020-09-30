@@ -12,3 +12,4 @@
 |   | 第1讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_001.md))|  [L1.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=2) | - |
 | 2020.9.23 | 第2讲 极简搜索引擎实现 ![第二课思维导图](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/images/class_2_mm.jpg) | [L2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=3) | [L2](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_2.ipynb) |
 | | 第2讲答疑 （[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_002.md)) | [L2.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=4) | - |
+| 2020.9.30 | 第3讲 排序初体验与正文的爬取 | [L3](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=5) | [L3](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_3.ipynb) |
