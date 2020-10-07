@@ -14,3 +14,4 @@
 | | 第2讲答疑 （[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_002.md)) | [L2.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=4) | - |
 | 2020.9.30 | 第3讲 排序初体验与正文的爬取 | [L3](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=5) | [L3](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_3.ipynb) |
 |  | 第3讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_003.md)) | [L3.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=6) | - |
+| 2020.10.7 | 第4讲 高亮、排序的进化及搜索类的封装 | [L4](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=7) | [L4](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_4.ipynb) |
