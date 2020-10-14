@@ -20,4 +20,4 @@
 | 2020.10.7 | 第4讲 高亮、排序的进化及搜索类的封装 | [L4](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=7) | [L4](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_4.ipynb) |
 |  | 第4讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_004.md)) | [L4.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=8) | - |
 | | [第4讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_004.md) | - | - |
-
+| 2020.10.14 | 第5讲 查询缓存机制设计与优化 | [L5](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=9) | [L5](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_5.ipynb) |
