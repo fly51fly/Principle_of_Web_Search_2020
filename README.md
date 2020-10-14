@@ -10,10 +10,14 @@
 |  ----  | ----  |  ----  | ----  |
 | 2020.9.16  | 第1讲 网络搜索原理概览 ![第一课思维导图](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/images/class_1_mm.jpg)|  [L1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=1) | - |
 |   | 第1讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_001.md))|  [L1.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=2) | - |
+| | [第1讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_001.md) | - | - |
 | 2020.9.23 | 第2讲 极简搜索引擎实现 ![第二课思维导图](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/images/class_2_mm.jpg) | [L2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=3) | [L2](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_2.ipynb) |
 | | 第2讲答疑 （[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_002.md)) | [L2.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=4) | - |
+| | [第2讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_002.md) | - | - |
 | 2020.9.30 | 第3讲 排序初体验与正文的爬取 | [L3](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=5) | [L3](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_3.ipynb) |
 |  | 第3讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_003.md)) | [L3.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=6) | - |
+| | [第3讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_003.md) | - | - |
 | 2020.10.7 | 第4讲 高亮、排序的进化及搜索类的封装 | [L4](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=7) | [L4](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_4.ipynb) |
 |  | 第4讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_004.md)) | [L4.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=8) | - |
-| 2020.10.14 | 第5讲 缓存机制设计及优化 | [L5](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=9) | [L5](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_5.ipynb) |
+| | [第4讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_004.md) | - | - |
+| 2020.10.14 | 第5讲 查询缓存机制设计与优化 | [L5](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=9) | [L5](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_5.ipynb) |
