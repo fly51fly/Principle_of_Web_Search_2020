@@ -21,3 +21,5 @@
 |  | 第4讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_004.md)) | [L4.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=8) | - |
 | | [第4讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_004.md) | - | - |
 | 2020.10.14 | 第5讲 查询缓存机制设计与优化 | [L5](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=9) | [L5](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_5.ipynb) |
+|  | 第5讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_005.md)) | [L5.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=10) | - |
+| | [第5讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_005.md) | - | - |
