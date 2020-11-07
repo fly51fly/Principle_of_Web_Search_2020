@@ -29,3 +29,6 @@
 | 2020.10.28 | 第7讲 短语和句子的搜索 | [L7](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=13) | [L7](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_7.ipynb) |
 | | 第7讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_007.md)) | [L7.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=14) | - |
 | | [第7讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_007.md) | - | - |
+| 2020.11.4 | 第8讲 多关键词的正文摘要和高亮 | [L8](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=15) | [L8](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_8.ipynb) |
+| | 第8讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_008.md)) | [L8.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=16) [L8.2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=17) | - |
+| | [第8讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_008.md) | - | - |
