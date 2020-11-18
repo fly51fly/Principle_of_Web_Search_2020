@@ -32,3 +32,7 @@
 | 2020.11.4 | 第8讲 多关键词的正文摘要和高亮 | [L8](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=15) | [L8](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_8.ipynb) |
 | | 第8讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_008.md)) | [L8.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=16) [L8.2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=17) | - |
 | | [第8讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_008.md) | - | - |
+| 2020.11.11 | 第9讲 摘要和高亮的进一步改进 | [L9.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=18) | [L9](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_9.ipynb) |
+| 2020.11.18 | 第10讲 搜索结果排序方式的改进 | [L10.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=19) | [L10](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_10.ipynb) |
+|  | 第9-10讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_010.md)) | [L9-10](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=20) | - |
+|  | [第9-10讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_010.md) | - | - |
