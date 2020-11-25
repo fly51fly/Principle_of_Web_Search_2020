@@ -37,3 +37,5 @@
 |  | 第9-10讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_010.md)) | [L9-10](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=20) | - |
 |  | [第9-10讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_010.md) | - | - |
 | 2020.11.25 | 第11讲 TFIDF/BM25打分算法与布尔查询初步实现 | [L11.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=21) | [L11](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_11.ipynb) |
+|  | 第11讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_011.md)) | [L11.2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=22) | - |
+|  | [第11讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_011.md) | - | - |
