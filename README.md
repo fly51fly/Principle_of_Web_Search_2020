@@ -42,3 +42,6 @@
 | 2020.12.2 | 第12讲 复杂布尔查询的处理 | [L12.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=23) | [L12](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_12.ipynb) |
 |  | 第11讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_012.md)) | [L12.2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=24) | - |
 |  | [第12讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_012.md) | - | - |
+| 2020.12.9 | 第13讲 拼写校正建议的实现 | [L13.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=25) | [L13](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_13.ipynb) |
+|  | 第13讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_013.md)) | [L13.2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=26) | - |
+|  | [第13讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_013.md) | - | - |
