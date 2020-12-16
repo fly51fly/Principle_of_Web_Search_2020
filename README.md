@@ -45,3 +45,6 @@
 | 2020.12.9 | 第13讲 拼写校正建议的实现 | [L13.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=25) | [L13](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/code/class_13.ipynb) |
 |  | 第13讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_013.md)) | [L13.2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=26) | - |
 |  | [第13讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_013.md) | - | - |
+| 2020.12.16 | 第14讲 搜索排序之向量空间模型 | [L14.1](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=27) | - |
+|  | 第14讲答疑（[问题列表](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/questions/question_014.md)) | [L14.2](https://www.bilibili.com/video/BV1zp4y1e7iN/?p=28) | - |
+|  | [第14讲反馈与建议](https://github.com/fly51fly/Principle_of_Web_Search_2020/blob/master/feedback/feedback_014.md) | - | - |
